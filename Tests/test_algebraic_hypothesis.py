@@ -9,7 +9,7 @@ TEST_DIR = os.path.dirname(__file__)
 SRC_DIR = '../Source'
 sys.path.insert(0, os.path.abspath(os.path.join(TEST_DIR, SRC_DIR)))
 
-import Module
+# import Module
 
 
 class TestSuite(unittest.TestCase):
