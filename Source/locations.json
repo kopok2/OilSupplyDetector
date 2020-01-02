@@ -1,0 +1,1772 @@
+{
+  "locations": [
+    {
+      "name": "US Oil Indianapolis IN",
+      "address": "3350 N. Raceway Rd. Indianapolis Indiana 46234-1163"
+    },
+    {
+      "name": "US Oil Cheboygan MI",
+      "address": "311 Coast Guard Drive Cheboygan Michigan 49721"
+    },
+    {
+      "name": "US Oil Rogers City MI",
+      "address": "1035 Calcite Rd. Rogers City Michigan 49779"
+    },
+    {
+      "name": "US Oil Green Bay Fox WI",
+      "address": "1124 North Broadway Green Bay Wisconsin 54303"
+    },
+    {
+      "name": "US Oil Green Bay Quincy WI",
+      "address": "2020 N Quincy St Green Bay Wisconsin 54306"
+    },
+    {
+      "name": "US Oil Milwaukee West WI",
+      "address": "9125 North 107th St Milwaukee Wisconsin 53224-1508"
+    },
+    {
+      "name": "US Oil Green Bay Buckeye WI",
+      "address": "410 Prairie Ave Green Bay Wisconsin 54303"
+    },
+    {
+      "name": "US Oil Madison Buckeye WI",
+      "address": "4516 Sigglekow Road McFarland Wisconsin 53558"
+    },
+    {
+      "name": "US Oil Milwaukee Jones Island WI",
+      "address": "1626 South Harbor Drive Milwaukee Wisconsin 53207-1020"
+    },
+    {
+      "name": "US Oil Chippewa Falls WI",
+      "address": "3689 N Prairie View Drive Chippewa Falls Wisconsin 54729"
+    },
+    {
+      "name": "US Oil Milwaukee South WI",
+      "address": "9135 North 107th Street Milwaukee Wisconsin 53224"
+    },
+    {
+      "name": "US Oil Milwaukee North WI",
+      "address": "9521 North 107th Street Milwaukee Wisconsin 53224"
+    },
+    {
+      "name": "US Oil Madison WI",
+      "address": "4402 Terminal Dr Madison Wisconsin 53558"
+    },
+    {
+      "name": "US Oil Green Bay West WI",
+      "address": "1075 Hurlbut Ct Green Bay Wisconsin 54303"
+    },
+    {
+      "name": "US Oil Milwaukee Central WI",
+      "address": "9451 North 107th Street Milwaukee Wisconsin 53224"
+    },
+    {
+      "name": "US Oil Bettendorf IA",
+      "address": "2925 Depot Street Bettendorf Iowa 52722"
+    },
+    {
+      "name": "US Oil Bryan TX",
+      "address": "1714 Finfeather Road Bryan Texas 77801"
+    },
+    {
+      "name": "US Oil Fort Worth TX",
+      "address": "301 Terminal Road Fort Worth Texas 76106"
+    },
+    {
+      "name": "US Oil Houston TX",
+      "address": "12325 North Fwy at Greens Rd Houston Texas 77060"
+    },
+    {
+      "name": "SE Elizabeth NJ",
+      "address": "534 S Front St Elizabeth New Jersey 07202"
+    },
+    {
+      "name": "NSR Elizabeth NJ",
+      "address": "322 Third Street Elizabeth New Jersey 07206"
+    },
+    {
+      "name": "Phillips Bayway NJ",
+      "address": "1400 S Park Ave Linden New Jersey 07036"
+    },
+    {
+      "name": "Motiva Inwood NY",
+      "address": "74 East Avenue Lawrence New York 11559"
+    },
+    {
+      "name": "Buckeye Albany NY",
+      "address": "301 Normanskill St. Albany New York 12202"
+    },
+    {
+      "name": "Buckeye Brewerton NY",
+      "address": "301 Normanskill St. Albany New York 12202"
+    },
+    {
+      "name": "Buckeye Buffalo NY",
+      "address": "625 Elk Street Buffalo New York 14210"
+    },
+    {
+      "name": "Buckeye Marcy NY",
+      "address": "9586 River Road Marcy New York 13403"
+    },
+    {
+      "name": "Buckeye Rochester NY",
+      "address": "675 Brooks Ave Rochester New York 14619"
+    },
+    {
+      "name": "Sunoco Tonawanda NY",
+      "address": "3733 River Road Tonawanda New York 14150"
+    },
+    {
+      "name": "Buckeye Utica NY",
+      "address": "37 Wurz Avenue Utica New York 13502"
+    },
+    {
+      "name": "Buckeye Vestal NY",
+      "address": "3121 Shippers Rd Vestal New York 13851-0527"
+    },
+    {
+      "name": "Citgo Linden NJ",
+      "address": "3121 Shippers Rd Vestal New York 13851-0527"
+    },
+    {
+      "name": "Shell Newark NJ",
+      "address": "909 Delancy Street Newark New Jersey 07105"
+    },
+    {
+      "name": "Shell Sewaren NJ",
+      "address": "111 State Street Sewaren New Jersey 07007"
+    },
+    {
+      "name": "PPT Allentown PA",
+      "address": "1134 North Quebec Street Allentown Pennsylvania 18103"
+    },
+    {
+      "name": "PPT Mechanicsburg PA",
+      "address": "127 Texaco Drive Mechanicsburg Pennsylvania 17050"
+    },
+    {
+      "name": "Sunoco Kingston PA",
+      "address": "60 S Wyoming Avenue Kingston Pennsylvania 18704-3102"
+    },
+    {
+      "name": "Sunoco Montello PA",
+      "address": "Fritztown Road Sinking Spring Pennsylvania 19608"
+    },
+    {
+      "name": "Marathon Midland PA",
+      "address": "Rt. 68 Midland Pennsylvania 15059"
+    },
+    {
+      "name": "PPT Pittsburgh PA",
+      "address": "2760 Neville Road Pittsburgh Pennsylvania 15225"
+    },
+    {
+      "name": "PPT Coraopolis PA",
+      "address": "520 University Blvd Coraopolis Pennsylvania 15108"
+    },
+    {
+      "name": "Buckeye Coraopolis PA",
+      "address": "3200 University Blvd Coraopolis Pennsylvania 15108"
+    },
+    {
+      "name": "Marathon Cincinnati OH",
+      "address": "4015 River Rd Cincinnati Ohio 45204"
+    },
+    {
+      "name": "Marathon Columbus East OH",
+      "address": "3855 Fisher Rd Columbus Ohio 43228"
+    },
+    {
+      "name": "Marathon Marietta OH",
+      "address": "655 River Lane Marietta Ohio 45750"
+    },
+    {
+      "name": "Buckeye Columbus South OH",
+      "address": "303 North Wilson Road Columbus Ohio 43204"
+    },
+    {
+      "name": "Sunoco Columbus W OH",
+      "address": "3866 Fisher Rd Columbus Ohio 43228"
+    },
+    {
+      "name": "Marathon Columbus West OH",
+      "address": "4125 Fisher Rd Columbus Ohio 43228"
+    },
+    {
+      "name": "Buckeye Columbus North OH",
+      "address": "3651 Fisher Rd. Columbus Ohio 43228"
+    },
+    {
+      "name": "Buckeye Dayton OH",
+      "address": "801 Brandt Pike Dayton Ohio 45404"
+    },
+    {
+      "name": "Sunoco Columbus E OH",
+      "address": "3499 West Broad Street Columbus Ohio 43204"
+    },
+    {
+      "name": "Sunoco Dayton OH",
+      "address": "1708 Farr Drive Dayton Ohio 45404"
+    },
+    {
+      "name": "ERPC Lebanon OH",
+      "address": "2700 Hart Road Lebanon Ohio 45036"
+    },
+    {
+      "name": "Citgo Dublin OH",
+      "address": "6433 Cosgray Road Dublin Ohio 43016"
+    },
+    {
+      "name": "Citgo Dayton OH",
+      "address": "1800 Farr Drive Dayton Ohio 45404"
+    },
+    {
+      "name": "Shell Carson CA",
+      "address": "20945 South WiIlmington Avenue Carson California 90810"
+    },
+    {
+      "name": "ExxonMobil Atwood CA",
+      "address": "1477 Jefferson Anaheim California 92807"
+    },
+    {
+      "name": "KinderMorgan Carson CA",
+      "address": "2000 East Sepulveda Blvd. Carson California 90810-1995"
+    },
+    {
+      "name": "KinderMorgan Colton CA",
+      "address": "2359 S. Riverside Avenue Bloomington California 92316"
+    },
+    {
+      "name": "KinderMorgan Daggett CA",
+      "address": "34277 Yermo Daggett Road Daggett California 92327"
+    },
+    {
+      "name": "KinderMorgan Imperial CA",
+      "address": "345 W Aten Road Imperial California 92251"
+    },
+    {
+      "name": "KinderMorgan Orange CA",
+      "address": "1350 North Main Street Orange California 92667"
+    },
+    {
+      "name": "KinderMorgan Mission Valley CA",
+      "address": "9950 San Diego Mission Road San Diego California 92108"
+    },
+    {
+      "name": "Chemoil Long Beach CA",
+      "address": "2365 E. Sepulveda Blvd. Long Beach California 90810"
+    },
+    {
+      "name": "Shell Signal Hill CA",
+      "address": "2457 Redondo Ave. Signal Hill California 90806"
+    },
+    {
+      "name": "Buckeye Canton OH",
+      "address": "807 Hartford SE Canton Ohio 44707"
+    },
+    {
+      "name": "Buckeye Cuyahoga OH",
+      "address": "4850 E 49th Street Cuyahoga Heights Ohio 44125"
+    },
+    {
+      "name": "Buckeye Lorain OH",
+      "address": "12545 S Avon Belden Rd Grafton Ohio 44044"
+    },
+    {
+      "name": "Buckeye Lima North OH",
+      "address": "817 West Vine Street Lima Ohio 45804"
+    },
+    {
+      "name": "Buckeye Toledo OH",
+      "address": "2450 Hill Ave Toledo Ohio 43607"
+    },
+    {
+      "name": "Delta Toledo OH",
+      "address": "1820 South Front Toledo Ohio 43605"
+    },
+    {
+      "name": "Marathon Brecksville OH",
+      "address": "10439 Brecksville Rd Brecksville Ohio 44141"
+    },
+    {
+      "name": "Marathon Oregon OH",
+      "address": "4131 Seaman Rd Oregon Ohio 43616"
+    },
+    {
+      "name": "Marathon Youngstown OH",
+      "address": "1140 Bears Den Road Youngstown Ohio 44511"
+    },
+    {
+      "name": "Buckeye Cleveland OH",
+      "address": "2201 West Third Street Cleveland Ohio 44113-2589"
+    },
+    {
+      "name": "Buckeye Lima South OH",
+      "address": "1500 W. Buckeye Road Lima Ohio 45804"
+    },
+    {
+      "name": "Sunoco Akron OH",
+      "address": "999 Home Avenue Akron Ohio 44310"
+    },
+    {
+      "name": "Sunoco Cleveland OH",
+      "address": "3200 Independence Road Cleveland Ohio 44105"
+    },
+    {
+      "name": "Sunoco Toledo OH",
+      "address": "1601 Woodvalle Road Toledo Ohio 43605"
+    },
+    {
+      "name": "Sunoco Youngstown OH",
+      "address": "6331 Southern Boulevard Youngstown Ohio 44512"
+    },
+    {
+      "name": "Citgo Oregon OH",
+      "address": "1840 Otter Creek Road Oregon Ohio 43616-7676"
+    },
+    {
+      "name": "Marathon Bellevue OH",
+      "address": "1840 Otter Creek Road Oregon Ohio 43616-7676"
+    },
+    {
+      "name": "Buckeye Warren OH",
+      "address": "1001 Youngstown Warren Rd Niles Ohio 41446-4620"
+    },
+    {
+      "name": "BTS Aurora OH",
+      "address": "1521 South Chillicothe Road Aurora Ohio 44202"
+    },
+    {
+      "name": "Buckeye Granger IN",
+      "address": "12694 Adams Rd Granger Indiana 46530"
+    },
+    {
+      "name": "KinderMorgan Indianapolis IN",
+      "address": "2500 N Tibbs Avenue Indianapolis Indiana 46222"
+    },
+    {
+      "name": "BP Whiting IN",
+      "address": "2530 Indianapolis Blvd. Whiting Indiana 46394"
+    },
+    {
+      "name": "Marathon Evansville IN",
+      "address": "2500 Broadway Evansville Indiana 47712"
+    },
+    {
+      "name": "Marathon Huntington IN",
+      "address": "4648 N. Meridian Rd Huntington Indiana 46750"
+    },
+    {
+      "name": "Citgo East Chicago IN",
+      "address": "2500 E. Chicago Ave East Chicago Indiana 46312"
+    },
+    {
+      "name": "Citgo Huntington IN",
+      "address": "4393 N Meridian Rd Huntington Indiana 46750"
+    },
+    {
+      "name": "HWRT Seymour IN",
+      "address": "9780 N US Hwy 31 Seymour Indiana 47274"
+    },
+    {
+      "name": "Marathon Hammond IN",
+      "address": "4206 Columbia Ave Hammond Indiana 46327"
+    },
+    {
+      "name": "Marathon Indianapolis IN",
+      "address": "4955 Robison Rd Indianapolis Indiana 46268"
+    },
+    {
+      "name": "Marathon Muncie IN",
+      "address": "2100 East State Road 28 Muncie Indiana 47303-4773"
+    },
+    {
+      "name": "Marathon Speedway IN",
+      "address": "1304 Olin Ave Indianapolis Indiana 46222"
+    },
+    {
+      "name": "ExxonMobil Hammond IN",
+      "address": "1527 141th Street Hammond Indiana 46320"
+    },
+    {
+      "name": "Buckeye East Chicago IN",
+      "address": "400 E Columbus Drive East Chicago Indiana 46312"
+    },
+    {
+      "name": "Buckeye Raceway IN",
+      "address": "3230 N Raceway Road Indianapolis Indiana 46234"
+    },
+    {
+      "name": "US Oil Indianapolis IN",
+      "address": "3350 N. Raceway Rd. Indianapolis Indiana 46234-1163"
+    },
+    {
+      "name": "Buckeye East Hammond IN",
+      "address": "2400 Michigan St. Hammond Indiana 46320"
+    },
+    {
+      "name": "Buckeye Zionsville IN",
+      "address": "5405 West 96th St. Indianapolis Indiana 46268"
+    },
+    {
+      "name": "Sunoco Huntington IN",
+      "address": "4691 N Meridian St Huntington Indiana 46750"
+    },
+    {
+      "name": "ERPC Princeton IN",
+      "address": "CR 950 E Oakland City Illinois 47660"
+    },
+    {
+      "name": "Marathon Clermont IN",
+      "address": "10833 East County Rd 300 North Indianapolis Indiana 46234"
+    },
+    {
+      "name": "Buckeye Indianapolis IN",
+      "address": "10700 E County Rd 300N Indianapolis Indiana 46234"
+    },
+    {
+      "name": "Marathon Mount Vernon IN",
+      "address": "129 South Barter Street Mount Vernon Indiana 47620"
+    },
+    {
+      "name": "Buckeye South Bend IN",
+      "address": "20630 W. Ireland Rd. South Bend Indiana 46614"
+    },
+    {
+      "name": "KinderMorgan Des Plaines IL",
+      "address": "1111 Elmhurst Rd Elk Grove Village Illinois 60007"
+    },
+    {
+      "name": "KinderMorgan Forest View IL",
+      "address": "4811 South Harlem Ave Forest View Illinois 60402"
+    },
+    {
+      "name": "KinderMorgan Rochelle IL",
+      "address": "100 East Standard Oil Road Rochelle Illinois 61068"
+    },
+    {
+      "name": "Citgo Mt. Prospect IL",
+      "address": "2316 Terminal Drive Arlington Heights Illinois 60005"
+    },
+    {
+      "name": "KinderMorgan Argo IL",
+      "address": "8500 West 68th Street Argo Illinois 60501-0409"
+    },
+    {
+      "name": "Buckeye Rockford IL",
+      "address": "1511 S Meridian Rockford Illinois 61102"
+    },
+    {
+      "name": "Marathon Mt Prospect IL",
+      "address": "3231 Busse Rd Arlington Heights Illinois 60005"
+    },
+    {
+      "name": "Marathon Rockford IL",
+      "address": "7312 Cunningham Road Rockford Illinois 61102"
+    },
+    {
+      "name": "ExxonMobil Des Plaines IL",
+      "address": "2312 Terminal Drive Arlington Heights Illinois 60005"
+    },
+    {
+      "name": "Buckeye Kankakee IL",
+      "address": "275 North 2760 West Road Kankakee Illinois 60901"
+    },
+    {
+      "name": "Buckeye Argo IL",
+      "address": "8600 West 71st. Street Bedford Park Illinois 60501"
+    },
+    {
+      "name": "Citgo Lemont IL",
+      "address": "<![CDATA[135th & New Avenue Lemont Illinois 60439]]>"
+    },
+    {
+      "name": "Citgo Des Plaines IL",
+      "address": "2304 Terminal Drive Arlington Heights Illinois 60005"
+    },
+    {
+      "name": "ExxonMobil Lockport IL",
+      "address": "12909 High Road Lockport Illinois 60441"
+    },
+    {
+      "name": "KinderMorgan Hartford IL",
+      "address": "1000 BP Lane Hartford Illinois 62048"
+    },
+    {
+      "name": "Phillips Hartford IL",
+      "address": "2150 Delmar Hartford Illinois 62048"
+    },
+    {
+      "name": "HWRT Hartford IL",
+      "address": "900 North Delmar Hartford Illinois 62048"
+    },
+    {
+      "name": "Buckeye Hartford IL",
+      "address": "220 E. Hawthorne Hartford Illinois 62048"
+    },
+    {
+      "name": "Marathon Champaign IL",
+      "address": "511 S. Staley Road Champaign Illinois 61821"
+    },
+    {
+      "name": "Marathon Robinson IL",
+      "address": "12345 E 1050th Ave Robinson Illinois 62454"
+    },
+    {
+      "name": "HWRT Norris City IL",
+      "address": "12345 E 1050th Ave Robinson Illinois 62454"
+    },
+    {
+      "name": "Growmark Ashkum IL",
+      "address": "Rt 49 South Ashkum Illinois 60911"
+    },
+    {
+      "name": "Buckeye Forsyth IL",
+      "address": "266 E Shafer Drive Forsyth Illinois 62535"
+    },
+    {
+      "name": "Phillips Cahokia IL",
+      "address": "3300 Mississippi Ave Cahokia Illinois 62206"
+    },
+    {
+      "name": "Buckeye Effingham IL",
+      "address": "18264 N US Hwy 45 Effingham Illinois 62401"
+    },
+    {
+      "name": "Buckeye Harristown IL",
+      "address": "18264 N US Hwy 45 Effingham Illinois 62401"
+    },
+    {
+      "name": "Magellan Heyworth IL",
+      "address": "16490 East 100 Rd N Heyworth Illinois 61745"
+    },
+    {
+      "name": "Growmark Menard IL",
+      "address": "18349 State Hwy 29 Petersburg Illinois 62675"
+    },
+    {
+      "name": "US Oil Cheboygan MI",
+      "address": "311 Coast Guard Drive Cheboygan Michigan 49721"
+    },
+    {
+      "name": "US Oil Rogers City MI",
+      "address": "1035 Calcite Rd. Rogers City Michigan 49779"
+    },
+    {
+      "name": "Buckeye River Rouge MI",
+      "address": "205 Marion St River Rouge Michigan 48218"
+    },
+    {
+      "name": "Citgo Ferrysburg MI",
+      "address": "524 Third Street Ferrysburg Michigan 49409"
+    },
+    {
+      "name": "Citgo Jackson MI",
+      "address": "2001 Morrill Rd Jackson Michigan 49201"
+    },
+    {
+      "name": "Citgo Niles MI",
+      "address": "2233 South Third Niles Michigan 49120"
+    },
+    {
+      "name": "Buckeye Ferrysburg MI",
+      "address": "17806 N Shore Drive Ferrysburg Michigan 49409"
+    },
+    {
+      "name": "Buckeye Taylor East MI",
+      "address": "24501 Ecorse Rd Taylor Michigan 48180"
+    },
+    {
+      "name": "Marathon Detroit MI",
+      "address": "12700 Toronto St. Detroit Michigan 48217"
+    },
+    {
+      "name": "Marathon Flint MI",
+      "address": "6065 North Dort Highway Mt. Morris Michigan 48458"
+    },
+    {
+      "name": "Marathon Jackson MI",
+      "address": "2090 Morrill Rd Jackson Michigan 49201-8238"
+    },
+    {
+      "name": "Marathon Niles MI",
+      "address": "2216 South Third Street Niles Michigan 49120-4010"
+    },
+    {
+      "name": "Marathon N Muskegon MI",
+      "address": "3005 Holton Rd North Muskegon Michigan 49445"
+    },
+    {
+      "name": "Buckeye Flint MI",
+      "address": "G5340 North Dort Highway Flint Michigan 48505"
+    },
+    {
+      "name": "Buckeye Niles West MI",
+      "address": "2150 S Third Street Niles Michigan 49120"
+    },
+    {
+      "name": "Buckeye Woodhaven MI",
+      "address": "20755 West Road Woodhaven Michigan 48183"
+    },
+    {
+      "name": "Buckeye Detroit MI",
+      "address": "700 S. Deacon Street Detroit Michigan 48217"
+    },
+    {
+      "name": "Buckeye Niles MI",
+      "address": "2303 S Third Street Niles Michigan 49120"
+    },
+    {
+      "name": "Sunoco Owosso MI",
+      "address": "4004 West Main Rd Owosso Michigan 48867"
+    },
+    {
+      "name": "Sunoco Detroit MI",
+      "address": "500 South Dix Avenue Detroit Michigan 48217"
+    },
+    {
+      "name": "Marathon Bay City MI",
+      "address": "1806 Marquette Bay City Michigan 48706"
+    },
+    {
+      "name": "Marathon Lansing MI",
+      "address": "6300 West Grand River Lansing Michigan 48906"
+    },
+    {
+      "name": "Marathon Romulus MI",
+      "address": "28001Citrin Dr Romulus Michigan 48174"
+    },
+    {
+      "name": "Marathon Traverse City MI",
+      "address": "13510 S West-Bay Shore Dr Traverse City Michigan 49684"
+    },
+    {
+      "name": "Sunoco Romulus MI",
+      "address": "29120 Wick Road Romulus Michigan 48174"
+    },
+    {
+      "name": "Delta Novi MI",
+      "address": "40600 Grand River Novi Michigan 48374"
+    },
+    {
+      "name": "Holland Terminal Holland MI",
+      "address": "630 Ottawa Avenue Holland Michigan 49423"
+    },
+    {
+      "name": "Buckeye Marshall MI",
+      "address": "12451 Old US 27 South Marshall Michigan 49068"
+    },
+    {
+      "name": "US Oil Green Bay Fox WI",
+      "address": "1124 North Broadway Green Bay Wisconsin 54303"
+    },
+    {
+      "name": "Buckeye Granville WI",
+      "address": "9101 N 107th Street Milwaukee Wisconsin 53224"
+    },
+    {
+      "name": "CHS Chippewa Falls WI",
+      "address": "2331 N Prairie View Rd Chippewa Falls Wisconsin 54729"
+    },
+    {
+      "name": "Citgo Green Bay WI",
+      "address": "1391 Bylsby Avenue Green Bay Wisconsin 54303"
+    },
+    {
+      "name": "Citgo Madison WI",
+      "address": "4606 Terminal Drive McFarland Wisconsin 53558"
+    },
+    {
+      "name": "Citgo Milwaukee WI",
+      "address": "9235 North 107th Street Milwaukee Wisconsin 53224"
+    },
+    {
+      "name": "US Oil Green Bay Quincy WI",
+      "address": "2020 N Quincy St Green Bay Wisconsin 54306"
+    },
+    {
+      "name": "Flint Hills Junction City WI",
+      "address": "2267 State Highway 34 Junction City Wisconsin 54443"
+    },
+    {
+      "name": "Flint Hills Madison WI",
+      "address": "4505 Terminal Dr McFarland Wisconsin 53558"
+    },
+    {
+      "name": "Flint Hills Milwaukee WI",
+      "address": "9343 North 107th Street Milwaukee Wisconsin 53224"
+    },
+    {
+      "name": "Flint Hills Waupun WI",
+      "address": "9343 North 107th Street Milwaukee Wisconsin 53224"
+    },
+    {
+      "name": "Marathon Green Bay WI",
+      "address": "1031 Hurlbut Street Green Bay Wisconsin 54303"
+    },
+    {
+      "name": "US Oil Milwaukee West WI",
+      "address": "9125 North 107th St Milwaukee Wisconsin 53224-1508"
+    },
+    {
+      "name": "US Oil Green Bay Buckeye WI",
+      "address": "410 Prairie Ave Green Bay Wisconsin 54303"
+    },
+    {
+      "name": "US Oil Madison Buckeye WI",
+      "address": "4516 Sigglekow Road McFarland Wisconsin 53558"
+    },
+    {
+      "name": "Calumet Superior WI",
+      "address": "2407 Stinson Ave Superior Wisconsin 54880"
+    },
+    {
+      "name": "US Oil Milwaukee Jones Island WI",
+      "address": "1626 South Harbor Drive Milwaukee Wisconsin 53207-1020"
+    },
+    {
+      "name": "US Oil Chippewa Falls WI",
+      "address": "3689 N Prairie View Drive Chippewa Falls Wisconsin 54729"
+    },
+    {
+      "name": "Arc Madison WI",
+      "address": "3689 N Prairie View Drive Chippewa Falls Wisconsin 54729"
+    },
+    {
+      "name": "US Oil Milwaukee South WI",
+      "address": "9135 North 107th Street Milwaukee Wisconsin 53224"
+    },
+    {
+      "name": "US Oil Milwaukee North WI",
+      "address": "9521 North 107th Street Milwaukee Wisconsin 53224"
+    },
+    {
+      "name": "US Oil Madison WI",
+      "address": "4402 Terminal Dr Madison Wisconsin 53558"
+    },
+    {
+      "name": "US Oil Green Bay West WI",
+      "address": "1075 Hurlbut Ct Green Bay Wisconsin 54303"
+    },
+    {
+      "name": "US Oil Milwaukee Central WI",
+      "address": "9451 North 107th Street Milwaukee Wisconsin 53224"
+    },
+    {
+      "name": "NuStar Roseville MN",
+      "address": "2288 West County Road C Roseville Minnesota 55113"
+    },
+    {
+      "name": "SPPR St Paul Park MN",
+      "address": "201 Factory Street St Paul Park Minnesota 55071"
+    },
+    {
+      "name": "Magellan Wrenshall MN",
+      "address": "10 Broadway Street Wrenshall Minnesota 55797"
+    },
+    {
+      "name": "Flint Hills Pine Bend MN",
+      "address": "12555 Clark Avenue St. Paul Minnesota 55068"
+    },
+    {
+      "name": "Calumet Duluth MN",
+      "address": "5746 Old Hwy 61 Duluth Minnesota 55810"
+    },
+    {
+      "name": "Magellan Alexandria MN",
+      "address": "709 3rd Ave W Alexandria Minnesota 56308"
+    },
+    {
+      "name": "Magellan Mankato MN",
+      "address": "55199 State Highway 68 Mankato Minnesota 56001"
+    },
+    {
+      "name": "Magellan Marshall MN",
+      "address": "1601 College Drive/RR 4 Marshall Minnesota 56258"
+    },
+    {
+      "name": "Magellan Roseville MN",
+      "address": "2451 W County Rd C St Paul Minnesota 55113"
+    },
+    {
+      "name": "Magellan Rochester MN",
+      "address": "1331 Highway 42 SE Eyota Minnesota 55934"
+    },
+    {
+      "name": "BP Dubuque IA",
+      "address": "15393 Old Highway Road. Peosta Iowa 52068"
+    },
+    {
+      "name": "Buckeye Bettendorf IA",
+      "address": "75 South 31st Street Bettendorf Iowa 52722"
+    },
+    {
+      "name": "US Oil Bettendorf IA",
+      "address": "2925 Depot Street Bettendorf Iowa 52722"
+    },
+    {
+      "name": "Buckeye Council Bluffs IA",
+      "address": "829 Tank Farm Road Council Bluffs Iowa 51503"
+    },
+    {
+      "name": "Magellan Des Moines IA",
+      "address": "2503 SE 43rd Street Des Moines Iowa 50317"
+    },
+    {
+      "name": "Magellan Dubuque IA",
+      "address": "8038 Sant Joes Prairie Road Dubuque Iowa 52003"
+    },
+    {
+      "name": "Magellan Iowa City IA",
+      "address": "912 First Avenue Coralville Iowa 52241"
+    },
+    {
+      "name": "NuStar Le Mars IA",
+      "address": "912 First Avenue Coralville Iowa 52241"
+    },
+    {
+      "name": "Magellan Mason City IA",
+      "address": "2810 East Main Clear Lake Iowa 50428"
+    },
+    {
+      "name": "NuStar Milford IA",
+      "address": "<![CDATA[2127 220th Street 1 mile W of Milford & Hwy 71 Milford Iowa 51351]]>"
+    },
+    {
+      "name": "Magellan Milford IA",
+      "address": "2451 Highway 71 Milford Iowa 51351"
+    },
+    {
+      "name": "Buckeye Cedar Rapids IA",
+      "address": "2092 Hwy. 965 NE North Liberty Iowa 52317"
+    },
+    {
+      "name": "Phillips Pleasant Hill IA",
+      "address": "4500 Vandalia Pleasant Hill Iowa 50327"
+    },
+    {
+      "name": "Magellan Bettendorf IA",
+      "address": "312 Bellingham Street Bettendorf Iowa 52722"
+    },
+    {
+      "name": "NuStar Rock Rapids IA",
+      "address": "312 Bellingham Street Bettendorf Iowa 52722"
+    },
+    {
+      "name": "Magellan Sioux City IA",
+      "address": "4300 41st Street Sioux City Iowa 51108"
+    },
+    {
+      "name": "Magellan Waterloo IA",
+      "address": "5360 Eldora Road Waterloo Iowa 50701"
+    },
+    {
+      "name": "Omega Partners Hartford IL",
+      "address": "1402 South Delmar Avenue Hartford Illinois 62048"
+    },
+    {
+      "name": "Phillips Kansas City KS",
+      "address": "2029 Fairfax Trafficway Kansas City Kansas 66115"
+    },
+    {
+      "name": "JD Streett St. Louis MO",
+      "address": "3800 S. 1st St. St. Louis Missouri 63118"
+    },
+    {
+      "name": "Magellan Carthage MO",
+      "address": "18195 County Rd 138 Carthage Missouri 64755"
+    },
+    {
+      "name": "Magellan Columbia MO",
+      "address": "5531 South Highway 63 Columbia Missouri 65201"
+    },
+    {
+      "name": "Phillips Jefferson City MO",
+      "address": "2116 Idlewood Jefferson City Missouri 65109"
+    },
+    {
+      "name": "Phillips Mount Vernon MO",
+      "address": "2116 Idlewood Jefferson City Missouri 65109"
+    },
+    {
+      "name": "Magellan Palmyra MO",
+      "address": "6789 County Road 312 Palmyra Missouri 63461"
+    },
+    {
+      "name": "Magellan Springfield MO",
+      "address": "3132 South State Hwy MM Springfield Missouri 65619"
+    },
+    {
+      "name": "Buckeye St. Louis North MO",
+      "address": "239 East Prairie Street St. Louis Missouri 63147"
+    },
+    {
+      "name": "Magellan Grand Forks ND",
+      "address": "3930 Gateway Drive Grand Forks North Dakota 58203"
+    },
+    {
+      "name": "Magellan Fargo ND",
+      "address": "902 Main Avenue E Fargo North Dakota 58078"
+    },
+    {
+      "name": "NuStar Jamestown ND",
+      "address": "3790 Highway 281 SE Jamestown North Dakota 58401"
+    },
+    {
+      "name": "NuStar Aberdeen SD",
+      "address": "3790 Highway 281 SE Jamestown North Dakota 58401"
+    },
+    {
+      "name": "NuStar Mitchell SD",
+      "address": "41408 Hwy 38 Mitchell South Dakota 57301"
+    },
+    {
+      "name": "NuStar Sioux Falls SD",
+      "address": "3721 South Grange Avenue Sioux Falls South Dakota 57105"
+    },
+    {
+      "name": "Magellan Sioux Falls SD",
+      "address": "5300 West 12th Street Sioux Falls South Dakota 57107"
+    },
+    {
+      "name": "Magellan Watertown SD",
+      "address": "1000 17th Street SE Watertown South Dakota 57201"
+    },
+    {
+      "name": "NuStar Wolsey SD",
+      "address": "20746 US Highway 281 at US Hwy 14 Wolsey South Dakota 57384"
+    },
+    {
+      "name": "NuStar Yankton SD",
+      "address": "2608 East Highway 50 Yankton South Dakota 57078"
+    },
+    {
+      "name": "NuStar Columbus NE",
+      "address": "RR 5, Box 27 BB Columbus Nebraska 68601"
+    },
+    {
+      "name": "NuStar Geneva NE",
+      "address": "1417 Highway 81 Geneva Nebraska 68361"
+    },
+    {
+      "name": "Magellan Doniphan NE",
+      "address": "12275 S US Highway 281 Doniphan Nebraska 68832"
+    },
+    {
+      "name": "Phillips Lincoln NE",
+      "address": "1345 Saltillo Rd. Roca Nebraska 68430"
+    },
+    {
+      "name": "Magellan Lincoln NE",
+      "address": "2000 Saltillo Road Roca Nebraska 68430"
+    },
+    {
+      "name": "NuStar Norfolk NE",
+      "address": "4708 North 13th St Norfolk Nebraska 57301"
+    },
+    {
+      "name": "NuStar North Platte NE",
+      "address": "17504 S Highway 83 North Platte Nebraska 69101"
+    },
+    {
+      "name": "Magellan Omaha NE",
+      "address": "2205 North 11th Street Omaha Nebraska 68110"
+    },
+    {
+      "name": "NuStar Osceola NE",
+      "address": "2205 North 11th Street Omaha Nebraska 68110"
+    },
+    {
+      "name": "NuStar Concordia KS",
+      "address": "1612 Deer Rd (US Hwy 24) Delphos Kansas 67436"
+    },
+    {
+      "name": "Magellan Great Bend KS",
+      "address": "48 NE Highway 156 Great Bend Kansas 67530"
+    },
+    {
+      "name": "NuStar Hutchinson KS",
+      "address": "3300 East Avenue G Hutchinson Kansas 67501"
+    },
+    {
+      "name": "Magellan Kansas City KS",
+      "address": "401 E Donovan Road Kansas City Kansas 66115"
+    },
+    {
+      "name": "NCR McPherson KS",
+      "address": "1391 Iron Horse Rd. McPherson Kansas 67460"
+    },
+    {
+      "name": "Magellan Olathe KS",
+      "address": "13745 West 135th Street Olathe Kansas 66062"
+    },
+    {
+      "name": "NuStar Salina KS",
+      "address": "2137 West Old Highway 40 Salina Kansas 67401"
+    },
+    {
+      "name": "Magellan Scott City KS",
+      "address": "100 Highway 4 Scott City Kansas 67871"
+    },
+    {
+      "name": "Magellan Topeka KS",
+      "address": "8050 S Topeka Blvd Topeka Kansas 66546"
+    },
+    {
+      "name": "Magellan Wichita KS",
+      "address": "7452 N Meridian Avenue Valley Center Kansas 67147"
+    },
+    {
+      "name": "Magellan Wathena KS",
+      "address": "963 Vernon Road Wathena Kansas 66090"
+    },
+    {
+      "name": "Phillips Wichita North KS",
+      "address": "2400 East 37th Street North Wichita Kansas 67219"
+    },
+    {
+      "name": "Buckeye Baltimore MD",
+      "address": "6200 Pennington Avenue Baltimore Maryland 21226"
+    },
+    {
+      "name": "Motiva Baltimore East MD",
+      "address": "2400 Petrolia Ave. Baltimore Maryland 21226"
+    },
+    {
+      "name": "Motiva Fairfax VA",
+      "address": "3800 Pickett Road Fairfax Virginia 22031"
+    },
+    {
+      "name": "Buckeye Roanoke VA",
+      "address": "1070 Oil Terminal Rd Montvale Virginia 24122"
+    },
+    {
+      "name": "Magellan Montvale VA",
+      "address": "11851 West Lynchburg Turnpike Montvale Virginia 24122"
+    },
+    {
+      "name": "Citgo Richmond VA",
+      "address": "Third and Maury Street Richmond Virginia 23224"
+    },
+    {
+      "name": "KinderMorgan Richmond 1 VA",
+      "address": "2000 Trenton Ave Richmond Virginia 23234"
+    },
+    {
+      "name": "Magellan Richmond VA",
+      "address": "204 East First Avenue Richmond Virginia 23224"
+    },
+    {
+      "name": "Motiva Richmond VA",
+      "address": "5801 Jefferson Davis Hwy. Richmond Virginia 23234"
+    },
+    {
+      "name": "KinderMorgan Roanoke 1 VA",
+      "address": "835 Hollins Road NE Roanoke Virginia 24012"
+    },
+    {
+      "name": "Magellan Roanoke VA",
+      "address": "5287 Terminal Road Roanoke Virginia 24014"
+    },
+    {
+      "name": "KinderMorgan Roanoke 2 VA",
+      "address": "5280 Terminal Road SW Roanoke Virginia 24014"
+    },
+    {
+      "name": "Motiva Montvale VA",
+      "address": "U.S. Highway 460 Montvale Virginia 24122"
+    },
+    {
+      "name": "Lincoln Fredricksburg VA",
+      "address": "3300 Beaulah Salisbury Fredricksburg Virginia 22402"
+    },
+    {
+      "name": "KinderMorgan Charlotte S NC",
+      "address": "6801 Freedom Drive Charlotte North Carolina 29841-6669"
+    },
+    {
+      "name": "Citgo Charlotte NC",
+      "address": "7600 Mount Holly Road Charlotte North Carolina 28214"
+    },
+    {
+      "name": "Lincoln Charlotte NC",
+      "address": "7720 Mr. Holly Road Charlotte North Carolina 28214"
+    },
+    {
+      "name": "KinderMorgan Charlotte N NC",
+      "address": "502 Tom Sadler Road Charlotte North Carolina 28214"
+    },
+    {
+      "name": "Motiva Charlotte South NC",
+      "address": "6851 Freedom Dr. Charlotte North Carolina 28214"
+    },
+    {
+      "name": "Magellan Charlotte 1 NC",
+      "address": "7145 Old Mount Holly Rd. Charlotte North Carolina 28130"
+    },
+    {
+      "name": "Motiva Charlotte North NC",
+      "address": "410 Tom Sadler Rd. Charlotte North Carolina 28214"
+    },
+    {
+      "name": "Motiva Fayetteville NC",
+      "address": "992 Shaw Mill Road Fayetteville North Carolina 28311"
+    },
+    {
+      "name": "Magellan Greensboro 2 NC",
+      "address": "7109 West Market Street Greensboro North Carolina 27409"
+    },
+    {
+      "name": "KinderMorgan Greensboro 1 NC",
+      "address": "6907 West Market Street Greensboro North Carolina 27409"
+    },
+    {
+      "name": "KinderMorgan Selma 1 NC",
+      "address": "2200 West Oak St. Selma North Carolina 27576"
+    },
+    {
+      "name": "Magellan Greensboro 1 NC",
+      "address": "115 S Chimney Rock Rd Greensboro North Carolina 27409-9661"
+    },
+    {
+      "name": "Motiva Greensboro NC",
+      "address": "101 S. Chimney Rock Rd. Greensboro North Carolina 27409"
+    },
+    {
+      "name": "TransMontaigne Charlotte NC",
+      "address": "7615 Old Mount Holly Road Charlotte North Carolina 28214"
+    },
+    {
+      "name": "Magellan Charlotte 2 NC",
+      "address": "7924 Mt. Holly Rd Charlotte North Carolina 28214"
+    },
+    {
+      "name": "TransMontaigne Selma NC",
+      "address": "2600 W. Oak St. Selma North Carolina 27576"
+    },
+    {
+      "name": "Citgo Selma NC",
+      "address": "4095 Buffalo Road Selma North Carolina 27576"
+    },
+    {
+      "name": "KinderMorgan Selma 3 NC",
+      "address": "4383 Buffalo Rd Selma North Carolina 27576"
+    },
+    {
+      "name": "KinderMorgan Selma 4 NC",
+      "address": "4086 Buffalo Road Selma North Carolina 27576"
+    },
+    {
+      "name": "Magellan Selma NC",
+      "address": "4414 Buffalo Road Selma North Carolina 27576"
+    },
+    {
+      "name": "Buckeye Spartanburg SC",
+      "address": "680 Delmar Rd Spartanburg South Carolina 29302"
+    },
+    {
+      "name": "Magellan North Augusta 2 SC",
+      "address": "217 Sweet Water Road North Augusta South Carolina 29860"
+    },
+    {
+      "name": "KinderMorgan N Augusta 2 SC",
+      "address": "221 Laurel Lake Dr. North Augusta South Carolina 29841"
+    },
+    {
+      "name": "Buckeye North Augusta SC",
+      "address": "221 Sweetwater Rd. North Augusta South Carolina 29841"
+    },
+    {
+      "name": "KinderMorgan N Augusta 1 SC",
+      "address": "205 Sweetwater Rd. North Augusta South Carolina 29841-6669"
+    },
+    {
+      "name": "Magellan North Augusta 1 SC",
+      "address": "1222 Sweetwater Road North Augusta South Carolina 29841"
+    },
+    {
+      "name": "TransMontaigne Spartanburg SC",
+      "address": "2300 South Port Road Spartanburg South Carolina 29304"
+    },
+    {
+      "name": "Magellan Spartanburg 1 SC",
+      "address": "650 Delmar Road Spartanburg South Carolina 29302"
+    },
+    {
+      "name": "KinderMorgan Spartanburg SC",
+      "address": "200 Nebo Street Spartanburg South Carolina 29302"
+    },
+    {
+      "name": "Motiva Spartanburg SC",
+      "address": "300 Del Mar Rd Spartanburg South Carolina 29302"
+    },
+    {
+      "name": "Magellan Spartanburg 2 SC",
+      "address": "2430 Pine Street Ext Spartanburg South Carolina 29302"
+    },
+    {
+      "name": "Citgo Spartanburg SC",
+      "address": "2590 Southport Road Spartanburg South Carolina 29302"
+    },
+    {
+      "name": "KinderMorgan Albany GA",
+      "address": "1630 W Oakridge Road Albany Georgia 31707"
+    },
+    {
+      "name": "Magellan Albany GA",
+      "address": "1722 W Oakridge Dr Albany Georgia 31707"
+    },
+    {
+      "name": "KinderMorgan Athens GA",
+      "address": "3460 Jefferson Road Athens Georgia 30607"
+    },
+    {
+      "name": "TransMontaigne Athens GA",
+      "address": "3450 Jefferson Road Athens Georgia 30607"
+    },
+    {
+      "name": "Motiva Doraville South GA",
+      "address": "4127 Winters Chapel Rd Doraville Georgia 30360"
+    },
+    {
+      "name": "KinderMorgan Atlanta GA",
+      "address": "3132 Parrott Avenue N W Atlanta Georgia 30318"
+    },
+    {
+      "name": "Epic Bremen GA",
+      "address": "870 Alabama Avenue Bremen Georgia 30110-2306"
+    },
+    {
+      "name": "Magellan Atlanta GA",
+      "address": "2970 Parrott Avenue Atlanta Georgia 30318"
+    },
+    {
+      "name": "Omega Partners Columbus GA",
+      "address": "5225 Miller Road Columbus Georgia 31904"
+    },
+    {
+      "name": "TransMontaigne Doraville GA",
+      "address": "2836 Woodwin Road Doraville Georgia 30362"
+    },
+    {
+      "name": "KinderMorgan Doraville 3 GA",
+      "address": "6430 New Peachtree Rd Doraville Georgia 30340"
+    },
+    {
+      "name": "Chevron Doraville GA",
+      "address": "4026 Winters Chapel Road Doraville Georgia 30362"
+    },
+    {
+      "name": "Citgo Doraville GA",
+      "address": "3877 Flowers Drive Doraville Georgia 30360"
+    },
+    {
+      "name": "Motiva Doraville West GA",
+      "address": "4201 Winters Chapel Rd Doraville Georgia 30340"
+    },
+    {
+      "name": "Magellan Doraville 1 GA",
+      "address": "4149 Winters Chapel Road Doraville Georgia 30360"
+    },
+    {
+      "name": "KinderMorgan Doraville 2 GA",
+      "address": "4064 Winters Chapel Rd Doraville Georgia 30340"
+    },
+    {
+      "name": "Magellan Doraville 2 GA",
+      "address": "2797 Woodwin Road Doraville Georgia 30360"
+    },
+    {
+      "name": "Epic Macon GA",
+      "address": "6225 Hawkinsville Road Macon Georgia 31216-5849"
+    },
+    {
+      "name": "Magellan Macon GA",
+      "address": "2505 Allen Road Macon Georgia 31206"
+    },
+    {
+      "name": "Vopak Savannah GA",
+      "address": "<![CDATA[280 Brampton Road Turner & Hart Georgia 31408-7390]]>"
+    },
+    {
+      "name": "Buckeye Jacksonville FL",
+      "address": "2617 Heckscher Drive Jacksonville Florida 32226"
+    },
+    {
+      "name": "Marathon Jacksonville FL",
+      "address": "2101 Heckscher Dr Jacksonville Florida 32218-6038"
+    },
+    {
+      "name": "KinderMorgan Tampa FL",
+      "address": "2101 GATX Dr Tampa Florida 33605"
+    },
+    {
+      "name": "Motiva Tampa FL",
+      "address": "6000 W Commerce St Tampa Florida 33616"
+    },
+    {
+      "name": "KinderMorgan Taft FL",
+      "address": "9919 S Orange Ave Orlando Florida 32824"
+    },
+    {
+      "name": "Marathon Tampa FL",
+      "address": "425 South 20th Street Tampa Florida 33605-6025"
+    },
+    {
+      "name": "CPT Jacksonville N FL",
+      "address": "3101 Talleyrand Ave Jacksonville Florida 32206"
+    },
+    {
+      "name": "Marathon Covington KY",
+      "address": "230 E 33rd St Covington Kentucky 41015"
+    },
+    {
+      "name": "Marathon Lexington KY",
+      "address": "1770 Old Frankfort Pike Lexington Kentucky 40504"
+    },
+    {
+      "name": "Valero Lexington KY",
+      "address": "1750 Old Frankfort Pike Lexington Kentucky 40504"
+    },
+    {
+      "name": "Marathon Louisville Algonquin Pk KY",
+      "address": "4510 Algonquin Pkwy Louisville Kentucky 40211"
+    },
+    {
+      "name": "Marathon Louisville Kramers Ln KY",
+      "address": "3920 Kramers Ln Louisville Kentucky 40216"
+    },
+    {
+      "name": "Magellan Chattanooga 1 TN",
+      "address": "4235 Jersey Pike Chattanooga Tennessee 37416"
+    },
+    {
+      "name": "Magellan Chattanooga 2 TN",
+      "address": "4326 Jersey Pike Chattanooga Tennessee 37416"
+    },
+    {
+      "name": "Magellan Knoxville 1 TN",
+      "address": "5101 Middlebrook Pike NW Knoxville Tennessee 37921"
+    },
+    {
+      "name": "Citgo Knoxville TN",
+      "address": "2409 Knott Road Knoxville Tennessee 37921"
+    },
+    {
+      "name": "Cummins Knoxville TN",
+      "address": "4715 Middlebrook Pike Knoxville Tennessee 37921-5532"
+    },
+    {
+      "name": "KinderMorgan Knoxville TN",
+      "address": "5009 Middlebrook Pike Knoxville Tennessee 37921"
+    },
+    {
+      "name": "Marathon Knoxville TN",
+      "address": "2601 Knott Rd Knoxville Tennessee 37950"
+    },
+    {
+      "name": "Motiva Knoxville TN",
+      "address": "5001 Middlebrook Pike NW Knoxville Tennessee 37921"
+    },
+    {
+      "name": "Magellan Knoxville 2 TN",
+      "address": "4801 Middlebrook Pike Knoxville Tennessee 37921"
+    },
+    {
+      "name": "Magellan Nashville 2 TN",
+      "address": "1441 51st Avenue North Nashville Tennessee 37209"
+    },
+    {
+      "name": "Cumberland Nashville TN",
+      "address": "7260 Centennial Boulevard Nashville Tennessee 37209"
+    },
+    {
+      "name": "Magellan Nashville 1 TN",
+      "address": "1609 63rd Avenue North Nashville Tennessee 37209"
+    },
+    {
+      "name": "Citgo Birmingham AL",
+      "address": "2200 25th St. SW Birmingham Alabama 35211"
+    },
+    {
+      "name": "Buckeye Montgomery AL",
+      "address": "4951 Birmingham Highway Montgomery Alabama 36108"
+    },
+    {
+      "name": "KinderMorgan Birmingham AL",
+      "address": "2635 Balsam Avenue Birmingham Alabama 35211"
+    },
+    {
+      "name": "Shell Birmingham AL",
+      "address": "2601 Wilson Road Birmingham Alabama 35221-1352"
+    },
+    {
+      "name": "Magellan Birmingham AL",
+      "address": "2400 Nabors Road Birmingham Alabama 35211"
+    },
+    {
+      "name": "Buckeye Birmingham AL",
+      "address": "1600 Mims Ave SW Birmingham Alabama 35211"
+    },
+    {
+      "name": "Magellan Montgomery AL",
+      "address": "3560 Well Rd Montgomery Alabama 36108"
+    },
+    {
+      "name": "Epic Montgomery AL",
+      "address": "520 Hunter Loop Road Montgomery Alabama 36108-1827"
+    },
+    {
+      "name": "Epic Moundville AL",
+      "address": "872 Second Ave. Moundville Alabama 35474"
+    },
+    {
+      "name": "KinderMorgan Collins MS",
+      "address": "31 Kola Road Collins Mississippi 39428"
+    },
+    {
+      "name": "Shell Collins MS",
+      "address": "<![CDATA[49 So. & Kola Rd. Collins Mississippi 39428]]>"
+    },
+    {
+      "name": "Citgo Meridian MS",
+      "address": "180 65th Avenue Meridian Mississippi 39305"
+    },
+    {
+      "name": "Murphy Meridian MS",
+      "address": "6540 N. Frontage Rd. Meridian Mississippi 39301"
+    },
+    {
+      "name": "Motiva Ft. Lauderdale FL",
+      "address": "1500 SE 26 St Fort Lauderdale Florida 33316"
+    },
+    {
+      "name": "Marathon Port Everglades N FL",
+      "address": "1601 SE 20th St Fort Lauderdale Florida 33316"
+    },
+    {
+      "name": "Marathon Port Everglades S FL",
+      "address": "909 SE 24th St. Fort Lauderdale Florida 33316"
+    },
+    {
+      "name": "Motiva Port Everglades FL",
+      "address": "1200 SE 28th St Fort Lauderdale Florida 33316"
+    },
+    {
+      "name": "KinderMorgan Chico CA",
+      "address": "2570 Hegan Lane Chico California 95927"
+    },
+    {
+      "name": "Valero Benicia CA",
+      "address": "3410 East Second Street Benicia California 94510"
+    },
+    {
+      "name": "Shell Martinez CA",
+      "address": "1801 Marina Vista Martinez California 94553"
+    },
+    {
+      "name": "KinderMorgan Bradshaw CA",
+      "address": "2901 Bradshaw Rd Bradshaw California 95741"
+    },
+    {
+      "name": "Shell West Sacramento CA",
+      "address": "1509 South River Road West Sacramento California 95691"
+    },
+    {
+      "name": "NuStar Stockton CA",
+      "address": "2941 Navy Dr. Stockton California 95206-1149"
+    },
+    {
+      "name": "Shell Stockton CA",
+      "address": "3515 Navy Drive Stockton California 95203"
+    },
+    {
+      "name": "Magellan Fort Smith AR",
+      "address": "8101 Highway 71 Fort Smith Arkansas 72903"
+    },
+    {
+      "name": "Magellan North Little Rock S AR",
+      "address": "2725 Central Airport Rd. North Little Rock Arkansas 72117"
+    },
+    {
+      "name": "Magellan North Little Rock N AR",
+      "address": "3222 Central Airport Rd. North Little Rock Arkansas 72117"
+    },
+    {
+      "name": "JP Energy North Little Rock AR",
+      "address": "2207 Central Airport Rd North Little Rock Arkansas 72117"
+    },
+    {
+      "name": "TransMontaigne Rogers AR",
+      "address": "2207 Central Airport Rd North Little Rock Arkansas 72117"
+    },
+    {
+      "name": "ExxonMobil Baton Rouge LA",
+      "address": "3329 Scenic Highway Baton Rouge Louisiana 70805"
+    },
+    {
+      "name": "CR Chalmette LA",
+      "address": "1700 Paris Rd Gate 50 Chalmette Louisiana 70043"
+    },
+    {
+      "name": "Motiva Convent LA",
+      "address": "10700 Hwy 44 (Louisiana Street) Convent Louisiana 70723"
+    },
+    {
+      "name": "Shell Kenner LA",
+      "address": "143 Firehouse Dr. Kenner Louisiana 70062"
+    },
+    {
+      "name": "Citgo Lake Charles LA",
+      "address": "<![CDATA[Cities Serv Hwy & LA Hwy 108 Lake Charles Louisiana 70601]]>"
+    },
+    {
+      "name": "Buckeye Opelousas LA",
+      "address": "Highway 182 South Opelousas Louisiana 70571"
+    },
+    {
+      "name": "Placid Port Allen LA",
+      "address": "1940 Louisiana Hwy One North Port Allen Louisiana 70767"
+    },
+    {
+      "name": "Phillips Westlake LA",
+      "address": "1980 Old Spanish Trail Westlake Louisiana 70669"
+    },
+    {
+      "name": "West Shore Granville WI",
+      "address": "11115 West County Line Road Bayside Wisconsin 53224"
+    },
+    {
+      "name": "Magellan Enid OK",
+      "address": "1401 North 30th Street Enid Oklahoma 73701"
+    },
+    {
+      "name": "Phillips Glenpool OK",
+      "address": "10600 S Elwood Jenks Oklahoma 74037"
+    },
+    {
+      "name": "Phillips Oklahoma City OK",
+      "address": "4700 NE Tenth Oklahoma City Oklahoma 73111"
+    },
+    {
+      "name": "Magellan Oklahoma City OK",
+      "address": "251 North Sunnylane Oklahoma City Oklahoma 73117"
+    },
+    {
+      "name": "Phillips Ponca City OK",
+      "address": "South Highway 60 Ponca City Oklahoma 74601"
+    },
+    {
+      "name": "Magellan Tulsa OK",
+      "address": "2120 S 33rd Avenue Tulsa Oklahoma 74107"
+    },
+    {
+      "name": "Sunoco Hearne TX",
+      "address": "Highway 6 South Hearne Texas 77859"
+    },
+    {
+      "name": "Motiva Hearne TX",
+      "address": "Highway 6 South Hearne Texas 77859"
+    },
+    {
+      "name": "Motiva Waco TX",
+      "address": "420 South Lacy Drive Waco Texas 76705"
+    },
+    {
+      "name": "US Oil Bryan TX",
+      "address": "1714 Finfeather Road Bryan Texas 77801"
+    },
+    {
+      "name": "Motiva San Antonio TX",
+      "address": "510 Petroleum Drive San Antonio Texas 78219"
+    },
+    {
+      "name": "Fikes Waco TX",
+      "address": "1600 South Loop Dr Waco Texas 76705"
+    },
+    {
+      "name": "Magellan El Paso TX",
+      "address": "13551 E Montana Ave El Paso Texas 79938"
+    },
+    {
+      "name": "Phillips Amarillo TX",
+      "address": "4300 Cliffside Drive Amarillo Texas 79124"
+    },
+    {
+      "name": "JP Energy Caddo Mills TX",
+      "address": "2738 County Rd 2168 Caddo Mills Texas 75135"
+    },
+    {
+      "name": "Magellan Dallas TX",
+      "address": "4200 Singleton Blvd Dallas Texas 75212-3433"
+    },
+    {
+      "name": "Motiva Dallas TX",
+      "address": "3900 Singleton Blvd. Dallas Texas 75212"
+    },
+    {
+      "name": "Magellan Aledo TX",
+      "address": "6000 IH 20 Aledo Texas 76008"
+    },
+    {
+      "name": "US Oil Fort Worth TX",
+      "address": "301 Terminal Road Fort Worth Texas 76106"
+    },
+    {
+      "name": "Motiva Fort Worth TX",
+      "address": "3200 N. Sylvania Fort Worth Texas 76111"
+    },
+    {
+      "name": "Magellan Southlake TX",
+      "address": "3100 Highway 26 West Grapevine Texas 76051"
+    },
+    {
+      "name": "Sunoco Center TX",
+      "address": "377 State Highway 87 South Center Texas 75935"
+    },
+    {
+      "name": "NuStar Southlake TX",
+      "address": "1700 Hwy 26 Grapevine Texas 76051"
+    },
+    {
+      "name": "Delek Tyler TX",
+      "address": "425 McMurry Drive Tyler Texas 75702"
+    },
+    {
+      "name": "Magellan Odessa TX",
+      "address": "2700 South Grandview Odessa Texas 79760"
+    },
+    {
+      "name": "Sunoco Waskom TX",
+      "address": "9 South Waskom Texas 75692"
+    },
+    {
+      "name": "Direct Fuels Euless TX",
+      "address": "12625 Calloway Cemetery Road Euless Texas 76040"
+    },
+    {
+      "name": "Motiva Pasadena TX",
+      "address": "1320 West Shaw St. Pasadena Texas 77501"
+    },
+    {
+      "name": "Motiva Beaumont TX",
+      "address": "9406 West Port Arthur Rd Beaumont Texas 77705"
+    },
+    {
+      "name": "Delek Big Sandy TX",
+      "address": "15878 TX - 155 Big Sandy Texas 75755"
+    },
+    {
+      "name": "Magellan Galena Park TX",
+      "address": "12901 American Petroleum Rd. Galena Park Texas 77547"
+    },
+    {
+      "name": "US Oil Houston TX",
+      "address": "12325 North Fwy at Greens Rd Houston Texas 77060"
+    },
+    {
+      "name": "Sunoco Hebert TX",
+      "address": "15651 W. Port Arthur Rd. Beaumont Texas 77705"
+    },
+    {
+      "name": "Phillips Pasadena TX",
+      "address": "100 Jefferson Street Pasadena Texas 77501"
+    },
+    {
+      "name": "KinderMorgan Pasadena TX",
+      "address": "400 N. Jefferson Pasadena Texas 77506"
+    },
+    {
+      "name": "Magellan East Houston TX",
+      "address": "7901 Wallisville Road Houston Texas 77029"
+    },
+    {
+      "name": "Magellan Frost TX",
+      "address": "2115 East Highway 22 Mertens Texas 76666"
+    },
+    {
+      "name": "Martin Port Arthur TX",
+      "address": "2420 Dowling Rd Port Arthur Texas 77640"
+    },
+    {
+      "name": "KinderMorgan Fresno CA",
+      "address": "4149 South Maple Avenue Fresno California 93725"
+    },
+    {
+      "name": "KinderMorgan San Jose CA",
+      "address": "2150 Kruse Avenue San Jose California 95131"
+    },
+    {
+      "name": "Shell San Jose CA",
+      "address": "<![CDATA[2165 O'Toole Ave San Jose California 95131]]>"
+    },
+    {
+      "name": "CHS Laurel MT",
+      "address": "803 Hwy 212 South Laurel Montana 59044"
+    },
+    {
+      "name": "Magellan Denver CO",
+      "address": "15000 East Smith Road Aurora Colorado 80011"
+    },
+    {
+      "name": "Phillips Albuquerque NM",
+      "address": "6356 State Road 47 S W Albuquerque New Mexico 87105"
+    },
+    {
+      "name": "Caljet Phoenix AZ",
+      "address": "125 North 53rd Ave. Phoenix Arizona 85043"
+    },
+    {
+      "name": "KinderMorgan Phoenix AZ",
+      "address": "49 N 53rd Ave Phoenix Arizona 85043"
+    },
+    {
+      "name": "KinderMorgan Tucson AZ",
+      "address": "3841 East Refinery Way Tucson Arizona 85713"
+    },
+    {
+      "name": "Circle K Phoenix AZ",
+      "address": "5333 W Van Buren St Phoenix Arizona 85043"
+    },
+    {
+      "name": "Chevron Salt Lake City UT",
+      "address": "2350 North 1100 W Salt Lake City Utah 84116"
+    },
+    {
+      "name": "Phillips North Salt Lake UT",
+      "address": "245 East 1100 North North Salt Lake City Utah 84054"
+    },
+    {
+      "name": "KinderMorgan Las Vegas NV",
+      "address": "5049 N Sloan Ln Las Vegas Nevada 89115"
+    },
+    {
+      "name": "KinderMorgan Reno NV",
+      "address": "301 Nugget Avenue Sparks Nevada 89431"
+    },
+    {
+      "name": "Flyers Energy Reno 2 NV",
+      "address": "147 South Stanford Way Sparks Nevada 89431"
+    },
+    {
+      "name": "Shell Anacortes WA",
+      "address": "147 South Stanford Way Sparks Nevada 89431"
+    },
+    {
+      "name": "KinderMorgan Eugene OR",
+      "address": "1765 Prairie Road Eugene Oregon 97402"
+    },
+    {
+      "name": "Shell Portland OR",
+      "address": "<![CDATA[3800 NW St. Helen's Road Portland Oregon 97210]]>"
+    },
+    {
+      "name": "Phillips Los Angeles CA",
+      "address": "13500 South Broadway Los Angeles California 90061"
+    },
+    {
+      "name": "TLC Vernon CA",
+      "address": "2709 E. 37th St. Vernon California 90058"
+    }
+  ]
+}
