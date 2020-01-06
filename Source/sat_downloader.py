@@ -31,12 +31,24 @@ if __name__ == '__main__':
         elem.click()
         time.sleep(2)
 
+
+
         # zoom in
         num_zoom = 11
         elem = driver.find_element_by_class_name('leaflet-control-zoom-in')
         for _ in range(num_zoom):
             elem.click()
             time.sleep(1)
+
+        # hide map overlaying elements
+        elems = driver.find_elements_by_class_name('leaflet-top')
+        for el in elems:
+            driver.execute_script("arguments[0].setAttribute('style','visibility: hidden')", el)
+        elems = driver.find_elements_by_class_name('leaflet-bottom')
+        for el in elems:
+            driver.execute_script("arguments[0].setAttribute('style','visibility: hidden')", el)
+        elem = driver.find_element_by_id("mapOverlays")
+        driver.execute_script("arguments[0].setAttribute('style','visibility: hidden')", elem)
 
         instructions = ['screen_cc'] + [Keys.ARROW_DOWN] * 9 + ['screen_cb'] + [Keys.ARROW_RIGHT] * 9 + ['screen_rb'] + \
                        [Keys.ARROW_UP] * 9 + ['screen_rc'] + [Keys.ARROW_UP] * 9 + ['screen_ru'] + \
