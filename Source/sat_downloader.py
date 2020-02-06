@@ -10,10 +10,10 @@ LOC_FILE_PATH = 'locations.json'
 EXPLORER_URL = 'https://earthexplorer.usgs.gov/'
 SCREEN_DIR = 'screens'
 SCREEN_STEPS = 9
-X_SCREENS = 3
-Y_SCREENS = 3
-X_SCREENS_OFFSET = 1
-Y_SCREENS_OFFSET = 1
+X_SCREENS = 7
+Y_SCREENS = 7
+X_SCREENS_OFFSET = 3
+Y_SCREENS_OFFSET = 3
 
 
 def get_instructions(x_screens, y_screens, x_offset, y_offset, steps):
@@ -40,7 +40,7 @@ def get_instructions(x_screens, y_screens, x_offset, y_offset, steps):
         result += [Keys.ARROW_DOWN] * steps + [f"screen_{0 if row % 2 else x_screens - 1}_{row + 1}"]
         for x in range(x_screens - 1):
             result += [Keys.ARROW_RIGHT if row % 2 else Keys.ARROW_LEFT] * steps + \
-                      [f"screen_{x if row % 2 else x_screens - x}_{row + 1}"]
+                      [f"screen_{x + 1 if row % 2 else x_screens - x - 2}_{row + 1}"]
     return result
 
 
@@ -84,11 +84,6 @@ if __name__ == '__main__':
         elem = driver.find_element_by_id("mapOverlays")
         driver.execute_script("arguments[0].setAttribute('style','visibility: hidden')", elem)
 
-        instructions = ['screen_cc'] + [Keys.ARROW_DOWN] * 9 + ['screen_cb'] + [Keys.ARROW_RIGHT] * 9 + ['screen_rb'] + \
-                       [Keys.ARROW_UP] * 9 + ['screen_rc'] + [Keys.ARROW_UP] * 9 + ['screen_ru'] + \
-                       [Keys.ARROW_LEFT] * 9 + \
-                       ['screen_cu'] + [Keys.ARROW_LEFT] * 9 + ['screen_lu'] + \
-                       [Keys.ARROW_DOWN] * 9 + ['screen_lc'] + [Keys.ARROW_DOWN] * 9 + ['screen_lb']
         instructions = get_instructions(X_SCREENS, Y_SCREENS, X_SCREENS_OFFSET, Y_SCREENS_OFFSET, SCREEN_STEPS)
         elem = driver.find_element_by_id('map')
         for ins in instructions:
