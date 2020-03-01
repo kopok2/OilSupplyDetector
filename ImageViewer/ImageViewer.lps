@@ -8,25 +8,26 @@
         <Filename Value="ImageViewer.lpr"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="31" Y="21"/>
-        <UsageCount Value="20"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="mainunit.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="MainUnit"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="24"/>
-        <CursorPos X="80" Y="41"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="64"/>
+        <CursorPos X="42" Y="71"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
     </Units>
-    <JumpHistory Count="5" HistoryIndex="4">
+    <JumpHistory Count="19" HistoryIndex="18">
       <Position1>
         <Filename Value="mainunit.pas"/>
         <Caret Line="12" Column="60" TopLine="5"/>
@@ -41,12 +42,68 @@
       </Position3>
       <Position4>
         <Filename Value="mainunit.pas"/>
-        <Caret Line="11" Column="34" TopLine="24"/>
+        <Caret Line="41" Column="31" TopLine="24"/>
       </Position4>
       <Position5>
         <Filename Value="mainunit.pas"/>
-        <Caret Line="41" Column="13" TopLine="24"/>
+        <Caret Line="43" Column="21" TopLine="11"/>
       </Position5>
+      <Position6>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="49" Column="3" TopLine="20"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="51" Column="3" TopLine="20"/>
+      </Position7>
+      <Position8>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="56" Column="55" TopLine="27"/>
+      </Position8>
+      <Position9>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="58" Column="48" TopLine="30"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="57" Column="52" TopLine="30"/>
+      </Position10>
+      <Position11>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="56" TopLine="37"/>
+      </Position11>
+      <Position12>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="90" Column="7" TopLine="57"/>
+      </Position12>
+      <Position13>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="99" Column="9" TopLine="70"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="42" Column="20" TopLine="29"/>
+      </Position14>
+      <Position15>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="87" Column="21" TopLine="61"/>
+      </Position15>
+      <Position16>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="29" Column="48" TopLine="31"/>
+      </Position16>
+      <Position17>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="30" Column="30" TopLine="30"/>
+      </Position17>
+      <Position18>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="46" Column="66" TopLine="42"/>
+      </Position18>
+      <Position19>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="48" Column="66" TopLine="44"/>
+      </Position19>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>

@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 # Screens
 *.jpg
-
+# Data
+*.csv
 # C extensions
 *.so
 
